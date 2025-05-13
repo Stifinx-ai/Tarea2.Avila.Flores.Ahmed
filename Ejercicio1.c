@@ -1,3 +1,7 @@
+//Avila Flores Ahmed
+//Escriba un codigo en c tal que dado como datos dos números y calcular la suma, resta y multiplicación de dichos números.
+
+
 #include <stdio.h>
 
 int main()
