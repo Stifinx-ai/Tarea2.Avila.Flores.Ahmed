@@ -23,5 +23,5 @@ int main()
   printf("la resta es: %d\n", res);
   printf("la multiplicación es: %d\n", mult);
 
-  Return 0;
+  return 0;
 }
